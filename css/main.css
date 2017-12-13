@@ -1,3 +1,6 @@
+img{
+  alpha(opacity=50); 
+}
 .container {
   text-align: center;
   color: white; }
