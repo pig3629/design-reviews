@@ -1,13 +1,11 @@
-img{
-  alpha(opacity=50); 
-}
+
 .container {
   text-align: center;
   color: white; }
 
 .intro-header {
   min-height: 400px;
-  background-image: url("../54.jpg");
+  background-image: url("../54.jpg");alpha(opacity=50); 
   background-position: center;
   background-attachment: scroll; }
 
